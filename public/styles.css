@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    margin: 40px;
+}
+
+.heading{
+    font-size: 5rem;
+    font-stretch: ultra-expanded;
+    color: deepskyblue;
+    text-align: center;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+    
+}
+
+.backgr{
+    width: 160px;
+    height: 160px;
+    border-radius: 1rem;
+    background-color:royalblue;
+    margin: 25px;
+    border-color: white;
+    border-width: 0.5rem;
+}
+
+.choosealphabets{
+    width:50%;
+    font-size: 100px;
+    color: black;
+    background-color: white;
+}
+
+.choosenumbers{
+    width: 50%;
+    font-size: 100px;
+    color: white;
+    background-color: black;
+}
+
+.home-bg{
+    background-color:white;
+}
+
+p{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+button:hover{
+ background-color: lawngreen;
+ border-color: teal;
+}
