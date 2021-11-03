@@ -1,5 +1,7 @@
 # Alphabet-Teacher
 
+App is live at : https://alpha-numeric-teacher.netlify.app/
+
 A reactJS web application 
 Developed for ease of teaching alphabets and numbers integrated with audio.
 
