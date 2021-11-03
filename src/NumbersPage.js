@@ -18,8 +18,9 @@ function NumbersPage()
 {
     return(
         <div>
-        {/*<navigationbarnum></navigationbarnum>*/}
-        {numbers.map(createcard)}
+        <center>
+            {numbers.map(createcard)}
+        </center>
         </div>
     );
 }

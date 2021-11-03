@@ -38,7 +38,7 @@ const numbers=[
     {
         id:' 9',
         name: "9"
-    },
+    }
 ]
 
 export default  numbers;

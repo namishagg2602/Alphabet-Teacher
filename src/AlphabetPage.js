@@ -1,7 +1,7 @@
 import React from 'react';
 import Alphabet from './Alphabet';
 import alphabets from './alphabets';
-
+import NumbersPage from './NumbersPage';
 /*function to create a card of Alphabet*/
 function createcard(alphabets)
 {
@@ -16,9 +16,9 @@ function AlphabetPage()
 {
   return (
  <div>
- <p> ABVUCVHGVJHV</p>
-  {/*<navigationbaralpha/>*/}
+ <center>
   {alphabets.map(createcard)}
+  </center>
   </div>
 
   );

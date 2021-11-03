@@ -8,9 +8,9 @@ function Heading()
   
     return (
         <div style={{color: 'white'}}>
-            <p>Home</p>
-            <p>Alphabets</p>
-            <p>Numbers</p>
+            <Link to="/">Home</Link>
+            <Link to="/alphabetpage">Alphabets</Link>
+            <Link to="/numberspage">Numbers</Link>
             
         </div>
     );
